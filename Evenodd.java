@@ -5,7 +5,7 @@ class Evenodd{
 public static void main(String[] args){
 
     Scanner obj = new Scanner(System.in);
-     double a = obj.nextInt();
+     double a = obj.nextDouble();
     
 
  if(a%2 == 0){
